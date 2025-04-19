@@ -24,6 +24,13 @@ Scripts can be run from the terminal using:
 python scripts/load_understat_match.py
 Match data is saved in /data/understat/ and organized by player.
 
+## 📊 Example Output
+
+The following shot map shows all shots in Manchester United vs Everton in match ID 26727 on a vertically cropped attacking half-pitch:
+
+![Example Shot Map](plots/shot_map_26727_half_pitch.png)
+
+
 ## 🛠️ Planned Features
 
 - [X] Load and inspect Understat match data 
