@@ -1,5 +1,6 @@
 # prem-stats-tracker
-A modular framework for football match analysis, visualization, and modeling with a focus on Premier League data.
+A modular framework for football match analysis, visualization, and modeling — with a focus on Premier League data.  
+This project currently uses [Understat](https://understat.com/) shot-level data to explore match performance and xG modeling.
 
 ## 📁 Project Structure
 
@@ -26,7 +27,7 @@ Match data is saved in /data/understat/ and organized by player.
 ## 🛠️ Planned Features
 
 - [X] Load and inspect Understat match data 
-- [ ] Visualize shots and goals on a pitch map  
+- [X] Visualize shots and goals on a pitch map  
 - [ ] Generate basic match summaries  
 - [ ] Add pass network plots  
 - [ ] Build xG/xA summaries by player and team  
